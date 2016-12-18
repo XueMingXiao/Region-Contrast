@@ -8,7 +8,7 @@ This package is the beta version of algorithms for the following manuscript： X
 ###### <2> Put the folder 'Data' and 'Code' under the same folder. Run RegionContrast.exe
 ###### <3> The obtained Detection results are in the folder: 'Data/Result' 
 #### (ii) Notes
-###### <1> In 'Data', there are some Challenging rocky images on Mars collected from 
+###### <1> In 'Data', there are some challenging rocky images on Mars collected from 
 ####### (1) ASD is aviliable at:http://ivrlwww.epfl.ch/supplementary_material/RK_CVPR09/; 
 ###### <2> You can put your own Dataset under the folder 'Data', make sure your images are in the subfolder 'Imgs'.
 

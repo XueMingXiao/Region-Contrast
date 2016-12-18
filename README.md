@@ -5,7 +5,7 @@ This package is the beta version of algorithms for the following manuscript： X
 -----------------------------
 #### (i) Direction
 ###### <1> Download the all the documents from: https://github.com/XueMingXiao/Region-Contrast
-###### <2> Unzip the ori.zip to get test images.Put these images under the foler 'Data'.
+###### <2> Unzip the 'ori.zip' to get test images.Put these images under the foler 'Data'.
 ###### <3> Put the folder 'Data' and 'Code' under the same folder. Run RegionContrast.exe
 ###### <4> The obtained Detection results are in the folder: 'Data/Result' 
 #### (ii) Notes

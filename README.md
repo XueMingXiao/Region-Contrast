@@ -10,7 +10,7 @@ This package is the beta version of algorithms for the following manuscript： X
 ###### <4> The obtained Detection results are in the folder: 'Data/Result' 
 #### (ii) Notes
 ###### <1> In 'Data', there are some challenging rocky images on Mars courtesy of NASA.
-###### <2> You can put your own Dataset under the folder 'Data', make sure your images are in the subfolder 'Imgs'.
+###### <2> You can put your own Dataset under the folder 'Data', make sure your images are in the '.jpg' format.
 
 #### (iii) Warning
 ###### The program is for educational and research use only. Any commercial use is strictly prohibited without the authors' consent.

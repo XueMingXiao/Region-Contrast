@@ -4,7 +4,7 @@ This package is the beta version of algorithms for the following manuscript： X
 ## Contents
 -----------------------------
 #### (i) Direction
-###### <1> Download the all the documents from: https://github.com/XueMingXiao/Saliency;
+###### <1> Download the all the documents from: https://github.com/XueMingXiao/Region-Contrast;
 ###### <2> Put the folder 'Data' and 'Code' under the same folder. Run RegionContrast.exe
 ###### <3> The obtained Detection results are in the folder: 'Data/Result' 
 #### (ii) Notes

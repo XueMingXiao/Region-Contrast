@@ -1,6 +1,7 @@
 # Region-Contrast
 ------------------------
-This package is the beta version of algorithms for the following manuscript： Xueming Xiao, Hutao Cui, Meibao Yao, Yang Tian, Autonomous Rock Detection on Mars through Region Contrast.Deep Space Exploration Research Center, Harbin Institute of Technology, Harbin, 150001 China, e-mail: alexcapshow@gmail.com.
+This package is the beta version of algorithms for the following paper： Xiao, X., Cui, H., Yao, M., & Tian, Y. (2017). Autonomous rock detection on mars through region contrast. Advances in Space Research.https://doi.org/10.1016/j.asr.2017.04.028 
+Anyone who use our package please cite the above paper. Further tests or optimation of proposed algorithm is welcome, for more please contact e-mail: alexcapshow@gmail.com.
 ## Contents
 -----------------------------
 #### (i) Direction
